@@ -209,7 +209,6 @@ die () {
 installation () {
     prerequisites
     helpers
-    dbcreate
     receiver
     analyzer  
     create_dirs
